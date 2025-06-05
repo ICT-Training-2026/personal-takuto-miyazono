@@ -1,5 +1,5 @@
 package company;
 
-public class Product4{
+public class Product４{
 
 }
